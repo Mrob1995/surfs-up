@@ -1,4 +1,4 @@
-# surfs-up
+# Surf's Up
 Querying a database via sqlalchemy
 
 ## Analysis
